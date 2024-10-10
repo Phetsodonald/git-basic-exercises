@@ -1,3 +1,3 @@
--banana flavour
--strawberry flavour
--chocolate flavour
+- banana flavour
+- strawberry flavour
+- chocolate flavour
